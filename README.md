@@ -21,7 +21,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://recordit.co/u8GSdJxbDt' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/u8GSdJxbDt.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## License
