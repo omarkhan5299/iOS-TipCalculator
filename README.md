@@ -1,4 +1,4 @@
-**WeSplit** is a tip calculator application for iOS
+**WeSplit** is a tip calculator app for iOS
 
 by: **Mohammed Omar Khan**
 
